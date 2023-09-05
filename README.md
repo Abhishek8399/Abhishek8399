@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhishek8399
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning and implementing DevOps
+- 💞️ I’m looking to collaborate on DevOps related work
 - 📫 How to reach me jhaabhishek8399@gmail.com
 
 <!---
